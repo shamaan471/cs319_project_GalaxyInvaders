@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Galaxy Invaders:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Galaxy_Invaders_jar</output-path>
+    <root id="archive" name="Galaxy Invaders.jar">
+      <element id="module-output" name="project" />
+    </root>
+  </artifact>
+</component>
